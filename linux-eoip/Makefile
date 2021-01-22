@@ -11,6 +11,8 @@ PKG_NAME:=linux-eoip
 PKG_VERSION:=0.5
 PKG_RELEASE:=1
 
+PKG_LICENSE:=LGPLv3
+
 PKG_SOURCE:=$(PKG_NAME)-$(PKG_VERSION).tar.gz
 PKG_SOURCE_URL:=http://github.com/bogdik/openwrt-linux-eoip/releases/download/0.6/
 PKG_MD5SUM:=d3e11bfd3fdc6a9eeec62c3c5afcf734
